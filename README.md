@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Coding+Wizard+&+Full+Stack+Dev+🔮;Seeking+Summer+2026+Internships+🚀;Let's+Build+Something+Awesome+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Full+Stack+Dev+🔮;Seeking+Summer+2026+Internships+🚀;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-779ECB?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:eklavya.vaid04@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Hit_Me_Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Hit_Me_Up-FF6961?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
@@ -61,5 +61,5 @@ I'm a **Computer Engineering Student** (2nd Year) at **NMIMS MPSTME**, crafting 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eklavya-0412&style=for-the-badge&color=7209B7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Eklavya-0412&style=for-the-badge&color=77DD77&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
