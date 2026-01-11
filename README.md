@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Want+to+Contribute+to+Software+Dev+Projects+💻;Seeking+Summer+2026+Internship+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;m+Want+to+Contribute+to+Software+Dev+Projects+💻;Seeking+Summer+2026+Internship+ " alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
@@ -18,10 +18,9 @@
 
 I am a **Computer Engineering Undergraduate** (2nd Year) at **SVKM NMIMS MPSTME**, currently exploring the intersection of **MedTech, GenAI, and Full Stack Development**. I am eager to apply my skills to real-world software challenges and open-source contributions.
 
-* 🔭 **Currently Building:** Scalable AI pipelines & HealthTech solutions.
+* 🔭 **Currently Building:** Scalable AI Projects and Data Pipelines.
 * 🧠 **Brain Dump:** Mastering Data Structures & Algorithms (C++).
-* 🎯 **Mission:** Securing a **Software Development Internship** (May - July 2026).
-* ⚡ **Superpower:** Balancing academics with leadership roles at **IEEE** & **Microsoft Students Club**.
+* 🎯 **AIM:** Securing a **Software Development Internship** (May - July 2026).
 
 ---
 
