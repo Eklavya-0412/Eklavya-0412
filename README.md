@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Code+Compiler+by+Day+💻;Cricket+Player+by+Night+🏏;Seeking+Summer+2026+Internship+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Want+to+Contribute+to+Software+Dev+Projects+💻;Seeking+Summer+2026+Internship+🚀" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
@@ -16,7 +16,7 @@
 
 ### ⚡ The "Elevator Pitch"
 
-I am a **Computer Engineering Undergraduate** (2nd Year) at **SVKM NMIMS MPSTME**, currently exploring the intersection of **MedTech, GenAI, and Full Stack Development**. When I'm not optimizing algorithms or building dashboards, you can find me on the cricket pitch playing at the **Interstate Club Level**.
+I am a **Computer Engineering Undergraduate** (2nd Year) at **SVKM NMIMS MPSTME**, currently exploring the intersection of **MedTech, GenAI, and Full Stack Development**. I am eager to apply my skills to real-world software challenges and open-source contributions.
 
 * 🔭 **Currently Building:** Scalable AI pipelines & HealthTech solutions.
 * 🧠 **Brain Dump:** Mastering Data Structures & Algorithms (C++).
