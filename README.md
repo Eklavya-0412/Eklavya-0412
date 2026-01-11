@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ The Elevator Pitch
+### ⚡ ABOUT ME
 
 I'm a **Computer Engineering Student** (2nd Year) at **NMIMS MPSTME**, crafting digital experiences with **GenAI, MedTech, and Full Stack Magic**. I don't just write code; I build solutions that impact real people.
 
