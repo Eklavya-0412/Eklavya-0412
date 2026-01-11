@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Code+Compiler+by+Day+💻;Cricket+Player+by+Night+🏏;CGPA:+9.08+%2F+10+🎓;Seeking+Summer+2026+Internship+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Code+Compiler+by+Day+💻;Cricket+Player+by+Night+🏏;Seeking+Summer+2026+Internship+🚀" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
@@ -20,8 +20,8 @@ I am a **Computer Engineering Undergraduate** (2nd Year) at **SVKM NMIMS MPSTME*
 
 * 🔭 **Currently Building:** Scalable AI pipelines & HealthTech solutions.
 * 🧠 **Brain Dump:** Mastering Data Structures & Algorithms (C++).
-* [cite_start]🎯 **Mission:** Securing a **Software Development Internship** (May - July 2026)[cite: 4].
-* [cite_start]⚡ **Superpower:** Balancing a **9.08 CGPA** with leadership roles at **IEEE** & **Microsoft Students Club**[cite: 4, 34].
+* 🎯 **Mission:** Securing a **Software Development Internship** (May - July 2026).
+* ⚡ **Superpower:** Balancing academics with leadership roles at **IEEE** & **Microsoft Students Club**.
 
 ---
 
@@ -41,25 +41,22 @@ I am a **Computer Engineering Undergraduate** (2nd Year) at **SVKM NMIMS MPSTME*
 
 | 🏆 Project | 🛠️ Tech | 📝 The "Crazy" Part |
 | :--- | :--- | :--- |
-| [cite_start]**Aegis Link** [cite: 22] | React, Supabase, Postgres | A complete family health dashboard bridging clinical care & daily wellness. |
-| [cite_start]**Agro Snap** [cite: 19] | Python, GenAI | Uses **Generative AI** to diagnose crop diseases just from a photo. |
-| [cite_start]**Arogya Map** [cite: 16] | Docker, Python | Integrates **AYUSH & ICD-11** terminologies for insurance-ready diagnostics. |
-| [cite_start]**Waste Segregator** [cite: 25] | Computer Vision | **Automated sorting** of hazardous vs. recyclable waste using image recognition. |
+| **Aegis Link** | React, Supabase, Postgres | A complete family health dashboard bridging clinical care & daily wellness. |
+| **Agro Snap** | Python, GenAI | Uses **Generative AI** to diagnose crop diseases just from a photo. |
+| **Arogya Map** | Docker, Python | Integrates **AYUSH & ICD-11** terminologies for insurance-ready diagnostics. |
+| **Waste Segregator** | Computer Vision | **Automated sorting** of hazardous vs. recyclable waste using image recognition. |
 
 ---
 
-### 📈 GitHub Stats & Analytics
+### 💼 Experience & Leadership
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Eklavya's Stats" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="Eklavya's Streak" height="180"/>
-</div>
+**Software Development Intern @ Infomagine Softwares Pvt. Ltd.** *(May 2025 - July 2025)*
+* Assisted in developing an E-education platform.
+* Built APIs for application sorting using **SQL and Python**.
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-</div>
+**Positions of Responsibility:**
+* **Subhead of Technicals** - IEEE Computer Society, MPSTME (2025-Present)
+* **R&D Executive** - Microsoft Students Club, MPSTME (Aug 2025-Present)
 
 <br>
 
