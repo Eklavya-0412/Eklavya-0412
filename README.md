@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Full+Stack+Dev+🔮;Seeking+Summer+2026+Internships+🚀;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Eklavya+Vaid+👋;Full+Stack+Dev+🔮;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
@@ -18,9 +18,9 @@
 
 I'm a **Computer Engineering Student** (2nd Year) at **NMIMS MPSTME**, crafting digital experiences with **GenAI, MedTech, and Full Stack Magic**. I don't just write code; I build solutions that impact real people.
 
-* 🔭 **Vibe:** Building scalable AI pipelines & slaying bugs in HealthTech.
+* 🔭 **Vibe:** Building scalable AI PLatforms & slaying bugs in Backend.
 * 🧠 **Grinding:** Advanced DSA (C++) & System Design.
-* 🎯 **Mission:** Hunting for a **Summer 2026 Internship** (May - July).
+* 🎯 **Mission:** Getting my life free of errors.
 
 ---
 
