@@ -18,7 +18,7 @@ I build system architectures that force me to understand how software works unde
 
 Right now, I’m going deeper into:
 
-`Systems Architecture` · `Go` · `Microservices` · `Agentic AI` · `Federated Learning` · `8086 Assembly`
+`Systems Architecture` · `Go` · `Microservices` · `Agentic AI` · `Federated Learning` 
 
 The goal isn't just to stitch APIs together.
 
