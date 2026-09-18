@@ -6,10 +6,9 @@ Computer Engineering Student | Backend Architecture, Systems & AI Developer
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Engineering undergraduate at NMIMS MPSTME focused on low-level systems engineering, scalable backend architecture, and AI-driven platforms. I specialize in building microservices, integrating retrieval-augmented generation (RAG), and optimizing data-heavy applications.
+I am a Computer Engineering undergraduate at NMIMS focused on low-level systems engineering, scalable backend architecture, and AI-driven platforms. I specialize in building microservices, integrating retrieval-augmented generation (RAG), and optimizing data-heavy applications.
 
 - 🎓 Pursuing a B.Tech in Computer Engineering (2024–2028).
-- 🧑‍💼 Technical Sub-Head for the **IEEE Computer Society** and R&D Executive for the **Microsoft Students Club**.
 - 💻 Deeply interested in computer architecture, algorithmic problem solving, and agentic AI orchestration.
 
 ---
