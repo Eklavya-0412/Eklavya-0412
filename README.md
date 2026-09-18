@@ -1,65 +1,54 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&color=20B2AA&center=true&vCenter=true&width=800&lines=Eklavya+Vaid+;" alt="Typing SVG" />
+# Eklavya Vaid
+Computer Engineering Student | Backend Architecture, Systems & AI Developer
 
-  <p>
-    <a href="https://linkedin.com/in/eklavya-vaid-a1893b1b0/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-779ECB?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:eklavya.vaid04@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Hit_Me_Up-FF6961?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+[LinkedIn](https://linkedin.com/in/eklavya-vaid-a1893b1b0/) • [Email](mailto:eklavya.vaid04@gmail.com)
 
 ---
 
-### ⚡ ABOUT ME
+## 👨‍💻 About Me
+I am a Computer Engineering undergraduate at NMIMS MPSTME focused on low-level systems engineering, scalable backend architecture, and AI-driven platforms. I specialize in building microservices, integrating retrieval-augmented generation (RAG), and optimizing data-heavy applications.
 
-I'm a **Computer Engineering Student** (2nd Year) at **NMIMS MPSTME**, crafting digital experiences with **GenAI, MedTech, and Full Stack Magic**. I don't just write code; I build solutions that impact real people.
-
-* 🔭 **Vibe:** Building scalable AI PLatforms & slaying bugs in Backend.
-* 🧠 **Grinding:** Advanced DSA (C++) & System Design.
-* 🎯 **Mission:** Getting my life free of errors.
-
----
-
-### 🔮 The Tech Arsenal
-
-<div align="center">
-
-| **Languages** | **Frontend** | **Backend & DB** | **Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,python,java" /> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" /> | <img src="https://skillicons.dev/icons?i=docker,git,vscode" /> |
-
-</div>
+- 🎓 Pursuing a B.Tech in Computer Engineering (2024–2028).
+- 🧑‍💼 Technical Sub-Head for the **IEEE Computer Society** and R&D Executive for the **Microsoft Students Club**.
+- 💻 Deeply interested in computer architecture, algorithmic problem solving, and agentic AI orchestration.
 
 ---
 
-### 🚀 Epic Projects
+## 🚀 Featured Projects
 
-| 🏆 Project | 🛠️ Stack | 🔥 The Cool Factor |
-| :--- | :--- | :--- |
-| **Aegis Link** | React, Supabase, Postgres | A complete family health dashboard bridging clinical care & daily wellness. **Telemedicine** included! |
-| **Agro Snap** | Python, GenAI | Uses **Generative AI** to diagnose crop diseases just by snapping a photo. 📸 |
-| **Arogya Map** | Docker, Python | Integrates **AYUSH & ICD-11** terminologies for insurance-ready diagnostics. |
-| **Waste Segregator** | Computer Vision, Python | **Automated sorting** of hazardous vs. recyclable waste using AI eyes. 👁️ |
+* **[CURA_SENSE](https://github.com/Eklavya-0412/CURA_SENSE)**
+  An automated Agentic AI SRE platform designed for root-cause analysis and self-healing during complex migrations.
+  > **Stack:** Python, FastAPI, LangGraph, ChromaDB, React 19, Gemini Pro
+
+* **[AXIOS](https://github.com/Eklavya-0412/AXIOS)**
+  An AIOps network intelligence platform that detects and resolves network anomalies using TF-IDF caching and Random Forest classification. 
+  > **Stack:** Python, LangGraph, Scikit-Learn, FastAPI
+
+* **[AI-Proctor](https://github.com/Eklavya-0412/AI-Proctor)**
+  An AI-powered proctoring platform featuring a real-time code editor and isolated Docker execution sandbox.
+  > **Stack:** Go, React, Docker, MongoDB
+
+* **[AROGYA-MAP](https://github.com/Eklavya-0412/AROGYA-MAP)**
+  A containerized MedTech microservice mapping traditional AYUSH terminologies to ICD-11 standards with ABHA OAuth 2.0 and FHIR compliance.
+  > **Stack:** Docker, Python, FastAPI, OAuth 2.0
+
+* **[IP-Sakti-Sahyak](https://github.com/Eklavya-0412/IP-Sakti-Sahyak)**
+  [Insert a quick one-line description of what this project does here]
+  > **Stack:** [Insert tech stack here]
 
 ---
 
-### 💼 XP & Leadership
+## 🛠️ Technical Arsenal
 
-**Software Dev Intern** 💻 *Infomagine Softwares Pvt. Ltd.*
-*(May 2025 - July 2025)*
-* Helped architect a massive E-education platform.
-* Built high-speed APIs using **SQL & Python**.
+- **Languages:** C++, Python, Java, Go, JavaScript, SQL, 8086 Assembly
+- **Frameworks & ML:** React, Tailwind CSS, FastAPI, Spring Boot, LangChain, PyTorch, TensorFlow, OpenCV
+- **Databases:** PostgreSQL, MySQL, MongoDB, Supabase, ChromaDB
+- **Tools & Core Concepts:** Docker, Git, WebSockets, WebRTC, Memory Management, Microservices architecture
 
-**Community & Leadership** 🌟
-* **Subhead of Technicals** - IEEE Computer Society
-* **R&D Executive** - Microsoft Students Club
+---
 
-<br>
+## 💼 Experience 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eklavya-0412&style=for-the-badge&color=77DD77&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+**Software Development Intern** | *Infomagine Softwares Pvt. Ltd.*
+- Engineered real-time chat and video communication modules using WebSockets and WebRTC for a large-scale e-learning platform.
+- Optimized backend database sorting APIs using Timsort and custom logic with Python and SQL, significantly improving data retrieval efficiency.
